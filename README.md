@@ -34,7 +34,6 @@ plaintext
 ├── 🎨 style.css       # Estilização, tema, animações e responsividade
 ├── ⚙️ script.js       # Lógica da aplicação e interatividade
 └── 🗃️ data.json       # Banco de dados com as informações das enterradas
-⚖️ Licença
-Este projeto está sob a licença MIT. Veja o arquivo LICENSE.md para mais detalhes.
+
 
 Feito com 🏀 e muito código por BssEric.
