@@ -1,0 +1,112 @@
+ [
+  {
+    "id": 1,
+    "nome": "The Cradle",
+    "jogador": "Michael Jordan",
+    "ano": 1988,
+    "dificuldade": 5,
+    "descricao": "Uma das enterradas mais icônicas da história, realizada no Slam Dunk Contest de 1988, onde Jordan saltou da linha do lance livre para selar sua vitória.",
+    "imagem": "https://i.ytimg.com/vi/3kYT7NN9sbE/hqdefault.jpg",
+    "videoUrl": "https://www.youtube.com/embed/_D2EOXuh-ac",
+    "tags": ["dunk contest", "famosa", "anos 80"]
+  },
+  {
+    "id": 2,
+    "nome": "360 Windmill",
+    "jogador": "Vince Carter",
+    "ano": 2000,
+    "dificuldade": 5,
+    "descricao": "No Dunk Contest de 2000, Vince Carter reviveu a competição com uma série de enterradas nunca antes vistas, incluindo um moinho de vento reverso de 360 graus que deixou todos boquiabertos.",
+    "imagem": "https://www.basketsession.com/statics/uploads/2017/12/vince-carter-photo-1.jpg",
+    "videoUrl": "https://www.youtube.com/embed/7QtljAdtwgQ",
+    "tags": ["dunk contest", "famosa", "anos 2000", "dificil"]
+  },
+  {
+    "id": 3,
+    "nome": "Le Dunk de la Mort",
+    "jogador": "Vince Carter",
+    "ano": 2000,
+    "dificuldade": 4,
+    "descricao": "Durante as Olimpíadas de 2000, Vince Carter saltou sobre o pivô francês de 2,18m, Frédéric Weis, em um lance que ficou conhecido como 'A Enterrada da Morte'.",
+    "imagem": "https://imgresizer.eurosport.com/unsafe/1200x0/filters:format(jpeg)/origin-imgresizer.eurosport.com/2016/09/25/1938785-40771185-2560-1440.jpg",
+    "videoUrl": "https://www.youtube.com/embed/7fCWBCAUelw",
+    "tags": ["famosa", "anos 2000"]
+  },
+  {
+    "id": 4,
+    "nome": "The Under-the-Legs",
+    "jogador": "Zach LaVine",
+    "ano": 2016,
+    "dificuldade": 5,
+    "descricao": "Em um duelo épico contra Aaron Gordon no Dunk Contest de 2016, LaVine realizou uma série de enterradas passando a bola por baixo das pernas, incluindo uma da linha do lance livre.",
+    "imagem": "https://tse4.mm.bing.net/th/id/OIP.Y_p2R69G-rJ52e73WjqufAHaE8?rs=1&pid=ImgDetMain&o=7&rm=3",
+    "videoUrl": "https://www.youtube.com/embed/4vY5DCggPYU",
+    "tags": ["dunk contest", "anos 2010", "dificil"]
+  },
+  {
+    "id": 5,
+    "nome": "The Mascot Leap",
+    "jogador": "Aaron Gordon",
+    "ano": 2016,
+    "dificuldade": 5,
+    "descricao": "Na mesma competição de 2016, Aaron Gordon criou uma das enterradas mais criativas de todos os tempos, saltando sobre o mascote do Orlando Magic, pegando a bola e passando-a por baixo das pernas.",
+    "imagem": "https://th.bing.com/th/id/R.e70e4228375ade05fbea9dfbc3557082?rik=drrRAQ%2b7j%2frNBQ&pid=ImgRaw&r=0",
+    "videoUrl": "https://www.youtube.com/embed/qWtukUCglFs",
+    "tags": ["dunk contest", "anos 2010", "dificil"]
+  },
+  {
+    "id": 6,
+    "nome": "The Rock the Cradle",
+    "jogador": "Julius Erving (Dr. J)",
+    "ano": 1983,
+    "dificuldade": 4,
+    "descricao": "Dr. J popularizou a enterrada como uma forma de arte. Sua 'Rock the Cradle', onde ele balançava a bola em um grande arco antes de enterrar, é um de seus movimentos mais famosos.",
+    "imagem": "https://th.bing.com/th/id/OIP.RkmQEzhFB4a_kpgVpCgPDwHaHa?w=173&h=173&c=7&r=0&o=7&dpr=2&pid=1.7&rm=3",
+    "videoUrl": "https://www.youtube.com/embed/7YwY_tFSrWw",
+    "tags": ["famosa", "anos 80"]
+  },
+  {
+    "id": 7,
+    "nome": "Poster on Patrick Ewing",
+    "jogador": "Scottie Pippen",
+    "ano": 1994,
+    "dificuldade": 4,
+    "descricao": "Uma das 'posterizações' mais desrespeitosas da história. Pippen enterrou sobre Patrick Ewing e, em seguida, ficou sobre ele, criando um momento inesquecível nos playoffs.",
+    "imagem": "https://th.bing.com/th/id/R.f4ff5cba76f17bb72c22aa45d4eaf59d?rik=ikA0aydYCW%2bZ5Q&pid=ImgRaw&r=0",
+    "videoUrl": "https://www.youtube.com/embed/srl2Bwh6A3I",
+    "tags": ["anos 90", "famosa"]
+  },
+  {
+    "id": 8,
+    "nome": "The Baseline Windmill",
+    "jogador": "Dominique Wilkins",
+    "ano": 1985,
+    "dificuldade": 5,
+    "descricao": "'The Human Highlight Film' era conhecido por suas enterradas poderosas. Seus moinhos de vento (windmills) eram uma marca registrada, combinando força e estilo.",
+    "imagem": "https://i0.wp.com/sneakerhistory.com/wp-content/uploads/2015/04/nique-thestartingfivenet.jpg",
+    "videoUrl": "https://www.youtube.com/embed/0Ja4Cb7I9h4",
+    "tags": ["dunk contest", "anos 80", "dificil"]
+  },
+  {
+    "id": 9,
+    "nome": "Superman Dunk",
+    "jogador": "Dwight Howard",
+    "ano": 2008,
+    "dificuldade": 3,
+    "descricao": "No Dunk Contest de 2008, Dwight Howard vestiu uma capa de Superman e 'voou' da área restritiva para jogar a bola na cesta, criando um espetáculo memorável.",
+    "imagem": "https://th.bing.com/th/id/R.ef9e351b08b8b024a601a93c554d7840?rik=TzPcjhx108sBGg&pid=ImgRaw&r=0",
+    "videoUrl": "https://www.youtube.com/embed/tq4rgd-Vgfs",
+    "tags": ["dunk contest", "anos 2000"]
+  },
+  {
+    "id": 10,
+    "nome": "Poster on Mutombo",
+    "jogador": "Michael Jordan",
+    "ano": 1997,
+    "dificuldade": 4,
+    "descricao": "Após ser bloqueado por Dikembe Mutombo, Jordan teve sua vingança com uma enterrada poderosa sobre ele, seguida pelo icônico 'finger wag' de Mutombo, agora direcionado a ele.",
+    "imagem": "https://th.bing.com/th/id/R.23e43a442c618af4642da69cd5d56997?rik=uMAq5IhoZCncQA&riu=http%3a%2f%2fimages.jordansdaily.com%2fwp-content%2fuploads%2f2016%2f02%2fmj-posterizes-mutombolarge-copy-2.jpg&ehk=TBWGquhADihraamzx5ZcU4fPE6jKfN7nrcK8NATxAwA%3d&risl=&pid=ImgRaw&r=0",
+    "videoUrl": "https://www.youtube.com/embed/f1urpD_UeFM",
+    "tags": ["anos 90", "famosa"]
+  }
+]
