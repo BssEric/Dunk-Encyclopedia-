@@ -1,3 +1,5 @@
+ESTE PROJETO FOI TOP #5 NA IMERSÃO DEV DA ALURA!!!!
+
 🏀 Dunk Encyclopedia — Catálogo de Enterradas Icônicas
 Uma aplicação web interativa que celebra as enterradas mais lendárias da história do basquete. O projeto transforma um catálogo de dados em uma experiência dinâmica e imersiva com design futurista, animações fluidas e vídeos integrados.
 
